@@ -1,0 +1,15 @@
+gen/
+band_s.self
+currentsong.json
+currentsong.txt
+discordrp.json
+dx_high_memory.dta
+dx_modifiers.dta
+dx_play_a_show_status.dta
+dx_playlist.dta
+dx_settings.dta
+dx_track_theme_default.dta
+dx_values.dta
+EBOOT.BIN
+songs.dta
+songs_updates.dta
